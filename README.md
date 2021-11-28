@@ -34,7 +34,7 @@
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img
-    src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38839/preview.svg"
+    src="https://tailwindcss.com/_next/static/media/twitter-square.daf77586b35e90319725e742f6e069f9.jpg"
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
