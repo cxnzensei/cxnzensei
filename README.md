@@ -141,8 +141,6 @@
     </td>
   </tr>
 </table>
-  <br/>
-  <br/>
 </div>
 
 <p align="center">
@@ -154,7 +152,6 @@
 
 <h1 align="center">Profile Visits</h1>
 <h4 align="center">Cha-Ching!</h4>
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/cxnzensei/count.svg" alt="" />
 </p>
