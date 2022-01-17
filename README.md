@@ -37,6 +37,10 @@
     src="https://res.cloudinary.com/arcjet-media/image/upload/c_scale,w_256/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
     width="40px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg"
+    width="40px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
   <img
