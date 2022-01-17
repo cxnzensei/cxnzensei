@@ -19,23 +19,23 @@
 <div align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
-    width="60px"
+    width="40px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
-    width="60px"
+    width="40px"
     />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-    width="60px"
+    width="40px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    width="60px"
+    width="40px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img
-    src="https://tailwindcss.com/_next/static/media/twitter-square.daf77586b35e90319725e742f6e069f9.jpg"
-    width="60px"
+    src="https://res.cloudinary.com/arcjet-media/image/upload/c_scale,w_256/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    width="40px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
