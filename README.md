@@ -49,6 +49,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/npm/simple-icons@7.2.0/icons/nextdotjs.svg"
+        width="48"
+        height="48"
+        alt="NextJS"
+      />
+      <br /><strong>NextJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
         height="48"
@@ -64,15 +73,6 @@
         alt="Tailwind CSS"
       />
       <br /><strong>TailwindCSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
     </td>
   </tr>
   <tr>
