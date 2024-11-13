@@ -159,6 +159,15 @@
       />
       <br /><strong>Docker</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+      <br /><strong>Vuejs</strong>
+    </td>
   </tr>
 </table>
 </div>
