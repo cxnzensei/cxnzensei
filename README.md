@@ -139,6 +139,8 @@
       />
       <br /><strong>Jest</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg"
@@ -146,7 +148,16 @@
         height="48"
         alt="Jest"
       />
-      <br /><strong>Jest</strong>
+      <br /><strong>Spring(boot)</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+      <br /><strong>Docker</strong>
     </td>
   </tr>
 </table>
